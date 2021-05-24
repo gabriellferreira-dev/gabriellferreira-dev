@@ -4,7 +4,7 @@
 <br>
 
 <a href="">
-  <img src="https://img.icons8.com/plasticine/2x/linkedin.png" width="50px" />
+  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50px" />
 </a>
 
 <a href="">

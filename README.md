@@ -3,16 +3,16 @@
 
 <br>
 
-<a href="">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50px" />
+<a href="https://www.linkedin.com/in/gabriellucasferreira/">
+  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30px" />
 </a>
 
-<a href="">
-  <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/github.png" width="50px" />
+<a href="https://github.com/gabriellferreira-dev">
+  <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/github.png" width="30px" />
 </a>
 
-<a href="">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="50px" />
+<a href="https://www.instagram.com/gabriell.ferreira_/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="30px" />
 </a>
 
 <br>

@@ -1,5 +1,5 @@
-## Ooolaaa!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-## Seja bem-vindo ao meu repositório.
+### Ooolaaa!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+### Seja bem-vindo ao meu repositório.
 
 <br>
 
@@ -18,11 +18,11 @@
 <br>
 <br>
 
-### Me chamo **Gabriel Lucas**, alguns me chamam de Gabs, e muito raro me chamarem de Lucas, mas fique à vontade. Atualmente moro no interior de Minas Gerais, Brasil. Estou me formando, pela <a href="https://www.betrybe.com/">Trybe</a>, **_Desenvolvedor Web Full-Stack Júnior_**.
+#### Me chamo **Gabriel Lucas**, alguns me chamam de Gabs, e muito raro me chamarem de Lucas, mas fique à vontade. Atualmente moro no interior de Minas Gerais, Brasil. Estou me formando, pela <a href="https://www.betrybe.com/">Trybe</a>, **_Desenvolvedor Web Full-Stack Júnior_**.
 
 <br>
 
-### **Linguagens e ferramentas:**
+#### **Linguagens e ferramentas:**
 
 <br>
 
@@ -36,7 +36,7 @@
 <br>
 <br>
 
-### Meus interesses
+#### Meus interesses
 
 - <img src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/app_frontend_end_front_front-end_front_end_development-512.png" width="20px" /> Estou terminando o módulo de **front-end** e espero logo poder me inserir no mercado;
 

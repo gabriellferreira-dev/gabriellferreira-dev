@@ -40,7 +40,7 @@
 
 #### Meus interesses
 
-- <img src="https://static.thenounproject.com/png/1442732-200.png" width="20px" /> Estou terminando o módulo de **front-end** e espero logo poder me inserir no mercado;
+- <img src="https://static.thenounproject.com/png/1442732-200.png" width="30px" /> Estou terminando o módulo de **front-end** e espero logo poder me inserir no mercado;
 
 - <img src="https://img.icons8.com/ios/452/holy-bible.png" width="20px" /> Sou cristão;
 

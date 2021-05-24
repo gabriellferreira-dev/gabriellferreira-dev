@@ -4,15 +4,15 @@
 <br>
 
 <a href="">
-  <img src="https://img-premium.flaticon.com/png/512/1384/1384889.png" width="50px" />
+  <img src="https://img.icons8.com/plasticine/2x/linkedin.png" width="50px" />
 </a>
 
 <a href="">
-  <img src="https://image.flaticon.com/icons/png/512/1322/1322053.png" width="50px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" width="50px" />
 </a>
 
 <a href="">
-  <img src="https://image.flaticon.com/icons/png/512/2111/2111421.png" width="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="50px" />
 </a>
 
 <br>

@@ -26,13 +26,15 @@
 
 <br>
 
+<p>
 <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" width="80px" />
 <img src="https://image.flaticon.com/icons/png/512/732/732190.png" width="80px" />
 <img src="https://image.flaticon.com/icons/png/512/541/541509.png" width="80px" />
 <img src="https://image.flaticon.com/icons/png/512/753/753244.png" width="80px" />
 <img src="https://image.flaticon.com/icons/png/512/226/226772.png" width="80px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="80px" />
-
+</p>
+  
 <br>
 <br>
 

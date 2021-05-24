@@ -8,7 +8,7 @@
 </a>
 
 <a href="">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" width="50px" />
+  <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/github.png" width="50px" />
 </a>
 
 <a href="">

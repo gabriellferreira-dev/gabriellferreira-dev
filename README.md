@@ -4,7 +4,7 @@
 <br>
 
 <a href="">
-  <img src="https://img-premium.flaticon.com/png/512/1384/1384889.png?token=exp=1621893655~hmac=4969275f41fe5a96d74ff5b4bee320db" width="50px" />
+  <img src="https://img-premium.flaticon.com/png/512/1384/1384889.png" width="50px" />
 </a>
 
 <a href="">

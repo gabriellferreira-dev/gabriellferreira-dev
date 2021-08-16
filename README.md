@@ -44,5 +44,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Gabriel Ferreira](https://img.shields.io/badge/-gabriellucasferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellucasferreira/)](https://www.linkedin.com/in/gabriellucasferreira/)
-[![Gmail Badge](https://img.shields.io/badge/-Gabriel-Ferreira-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glucas709@gmail.com)](mailto:glucas709@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-glucas709@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glucas709@gmail.com)](mailto:glucas709@gmail.com)
 [![GitHub Gabriel Ferreira]( https://img.shields.io/github/followers/gabriellferreira-dev?label=follow&style=social)](https://github.com/gabriellferreira-dev/)

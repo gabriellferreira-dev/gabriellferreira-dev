@@ -1,49 +1,48 @@
-### Ooolaaa!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-### Seja bem-vindo ao meu repositório.
 
-<br>
+![](https://komarev.com/ghpvc/?username=gabriellferreira-dev&color=006bed)
 
-<a href="https://www.linkedin.com/in/gabriellucasferreira/">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30px" />
-</a>
+<h3> :man: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias e soluções de software.
+- 🎓 &nbsp; Estudando Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>.
+- 💼 &nbsp; Buscando minha primeira vaga como Dev.
+- 🌱 &nbsp; Aprendendo mais sobre ReactJS e iniciando no MongoDB.
+
+"Quero chegar a um nível de conhecimento onde o conhecimento não ficará limitado somente a mim, mas alcançará outras pessoas".
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=reactjs)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
 
 <a href="https://github.com/gabriellferreira-dev">
-  <img src="https://raw.githubusercontent.com/Giovaniavs/Giovaniavs/feature/readme/img/github.png" width="30px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellferreira-dev&theme=dracula&show_icons=true" />
 </a>
 
-<a href="https://www.instagram.com/gabriell.ferreira_/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="30px" />
-</a>
+<br/>
 
-<br>
-<br>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-#### Me chamo **Gabriel Lucas**, alguns me chamam de Gabs, e muito raro me chamarem de Lucas, mas fique à vontade. Atualmente moro no interior de Minas Gerais, Brasil. Estou me formando, pela <a href="https://www.betrybe.com/">Trybe</a>, **_Desenvolvedor Web Full-Stack Júnior_**.
-
-<br>
-
-#### **Linguagens e ferramentas:**
-
-<br>
-
-<p>
-<img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" width="80px" />
-<img src="https://image.flaticon.com/icons/png/512/732/732190.png" width="80px" />
-<img src="https://image.flaticon.com/icons/png/512/541/541509.png" width="80px" />
-<img src="https://image.flaticon.com/icons/png/512/753/753244.png" width="80px" />
-<img src="https://image.flaticon.com/icons/png/512/226/226772.png" width="80px" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="80px" />
-</p>
-  
-<br>
-<br>
-
-#### Meus interesses
-
-- <img src="https://static.thenounproject.com/png/1442732-200.png" width="30px" /> Estou terminando o módulo de **front-end** e espero logo poder me inserir no mercado;
-
-- <img src="https://img.icons8.com/ios/452/holy-bible.png" width="20px" /> Sou cristão;
-
-- <img src="https://img-premium.flaticon.com/png/512/2097/2097359.png?token=exp=1621896183~hmac=e7cf7f5e7585ae85c2f7943e510c846b" width="20px" /> Meu passatempo preferido quando não estou estudando ou preciso descansar um pouco é cantar;
-
-- <img src="https://image.flaticon.com/icons/png/512/380/380132.png" width="20px" /> Meu sonho desde do ensino médio foi estar na área de tecnologia, mais precisamente na área de código, e hoje estou realizando esse sonho.
+[![Linkedin: Gabriel Ferreira](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellucasferreira/)](https://www.linkedin.com/in/gabriellucasferreira/)
+[![Gmail Badge](https://img.shields.io/badge/-glucas709@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glucas709@gmail.com)](mailto:glucas709@gmail.com)
+[![GitHub Gabriel Ferreira]( https://img.shields.io/github/followers/gabriellferreira-dev?label=follow&style=social)](https://github.com/gabriellferreira-dev/)

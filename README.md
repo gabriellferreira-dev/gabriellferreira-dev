@@ -6,7 +6,6 @@
 - 🤔 &nbsp; Explorando novas tecnologias e soluções de software.
 - 🎓 &nbsp; Estudando Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>.
 - 💼 &nbsp; Buscando minha primeira vaga como Dev.
-- 🌱 &nbsp; Aprendendo mais sobre ReactJS e iniciando no MongoDB.
 
 "Quero chegar a um nível de conhecimento onde o conhecimento não ficará limitado somente a mim, mas alcançará outras pessoas".
 
@@ -21,6 +20,7 @@
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
 
 **DevOps**
 

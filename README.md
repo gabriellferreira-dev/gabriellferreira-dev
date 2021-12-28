@@ -35,8 +35,11 @@
 
 <br/>
 
-<a href="https://github.com/gabriellferreira-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellferreira-dev&theme=dracula&show_icons=true" />
+<a href="https://github.com/gabriellferreira-dev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellferreira-dev&show_icons=true&theme=radical&count_private=true" />
+</a>
+<a href="https://github.com/gabriellferreira-dev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellferreira-dev&layout=compact" />
 </a>
 
 <br/>

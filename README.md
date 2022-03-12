@@ -4,8 +4,9 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e soluções de software.
-- 🎓 &nbsp; Estudando Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>.
-- 💼 &nbsp; Buscando minha primeira vaga como Dev.
+- 🎓 &nbsp; Estudandei Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>.
+- 🎓 &nbsp; Uma nova oportunidade de crescimento nunca é de mais.
+- 💼 &nbsp; Trabalho atualmente como desenvolvedor front-end na empresa WS Work.
 
 "Quero chegar a um nível de conhecimento onde o conhecimento não ficará limitado somente a mim, mas alcançará outras pessoas".
 
@@ -14,6 +15,7 @@
 **Aplicações e Dados**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JTypeScript](https://img.shields.io/badge/-JTypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)

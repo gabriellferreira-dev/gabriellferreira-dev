@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e soluções de software.
-- 🎓 &nbsp; Estudandei Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>.
+- 🎓 &nbsp; Estudei Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>.
 - 🎓 &nbsp; Uma nova oportunidade de crescimento nunca é de mais.
 - 💼 &nbsp; Trabalho atualmente como desenvolvedor front-end na empresa WS Work.
 

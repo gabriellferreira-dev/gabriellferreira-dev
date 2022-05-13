@@ -14,7 +14,7 @@
 **Aplicações e Dados**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![JTypeScript](https://img.shields.io/badge/-JTypeScript-333333?style=flat&logo=typescript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
@@ -22,6 +22,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 
 **DevOps**
 
